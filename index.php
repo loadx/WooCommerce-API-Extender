@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: WooCommerce API Extender
- * Description: To assist in building out aadditional functionality of the WooCommerce API
+ * Description: To assist in building out additional functionality of the WooCommerce API
  * Version: 1.0
  * Author: Extension Works
  * Author URI: http://www.extensionworks.com
