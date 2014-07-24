@@ -1,10 +1,10 @@
 <?php
 
 /**
- * Plugin Name: Woocommerce_rest_extension
- * Description: A brief description of the Plugin.
- * Version: The Plugin's Version Number, e.g.: 1.0
- * Author: Extensionworks
+ * Plugin Name: WooCommerce API Extender
+ * Description: This is assist in building out aadditional functionality of the WooCommerce API
+ * Version: 1.0
+ * Author: Extension Works
  * Author URI: http://www.extensionworks.com
  * License: MIT
  */
