@@ -1,10 +1,11 @@
 <?php
 
 /**
- * Plugin Name: Woocommerce_rest_extension
- * Description: A brief description of the Plugin.
- * Version: The Plugin's Version Number, e.g.: 1.0
- * Author: Extensionworks
+ * Plugin Name: WooCommerce-API-Extender
+ * Plugin URI: http://www.extensionworks.com.au/
+ * Description: This plugin enables WooCommerce's API to lookup customers and orders by email address. This will be a standard feature in WooCommerce 2.2 and this plugin is merely an extension to enable the required behaviour now.  This plugin will notify when it is no longer required.
+ * Version: 1.0
+ * Author: ExtensionWorks
  * Author URI: http://www.extensionworks.com
  * License: MIT
  */
