@@ -1,7 +1,7 @@
 <?php
 
-require_once(ABSPATH.'wp-content/plugins/woocommerce/includes/api/class-wc-api-server.php');
-require_once(ABSPATH.'wp-content/plugins/woocommerce/includes/api/class-wc-api-resource.php');
+require_once(WP_CONTENT_DIR.'/plugins/woocommerce/includes/api/class-wc-api-server.php');
+require_once(WP_CONTENT_DIR.'/plugins/woocommerce/includes/api/class-wc-api-resource.php');
 require_once('extensionworks-wc-api-customers-functions.php');
 
 if (!defined('ABSPATH')){

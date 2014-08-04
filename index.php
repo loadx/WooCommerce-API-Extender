@@ -8,10 +8,10 @@
  * Author URI: http://www.extensionworks.com
  * License: MIT
  */
-require_once(ABSPATH.'wp-content/plugins/woocommerce/includes/api/class-wc-api-server.php');
+require_once(WP_CONTENT_DIR.'/plugins/woocommerce/includes/api/class-wc-api-server.php');
 require_once('extensionworks-wc-api-server.php');
 
-if ( ! defined( 'ABSPATH' ) ) {
+if (!defined('ABSPATH')){
     exit; // Exit if accessed directly
 }
 
